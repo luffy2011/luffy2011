@@ -1,9 +1,201 @@
-.back{
-background-color: yellow;
-width: 1000px;
-height: 700px;
+.cover{
+
+height: 570;
+width: 1280;
 position: absolute;
-left: 600px;
+
+
+
+
+
 
 
 }
+
+
+
+
+
+
+
+.container{
+display: flex;
+justify-content: space-evenly ;
+
+
+
+}
+
+input, button {
+height: 25px;
+
+
+
+}
+
+
+#result{
+font-size:25px;
+font-weight: bold;
+
+
+
+}
+
+
+.background{
+width: 1300px;
+height: 1800px;
+background-color: aqua;
+
+
+
+
+
+}
+
+
+.link{
+
+border: 1rem solid black;
+width: 35rem;
+height:5rem;
+position: absolute;
+bottom: 1rem;
+
+
+
+
+
+
+
+}
+
+.aa{
+    width: 10rem;
+    height: 15rem;
+ 
+    }
+
+
+.a1{
+width: 10rem;
+height: 22rem;
+background-color: aqua;
+}
+
+.a2{
+  width: 10rem;
+ height: 15rem;
+ background-color: blue;
+    }
+
+  .a3{
+ width: 10rem;
+height: 15rem;
+background-color: yellow;
+ }
+
+.a4{
+ width: 10rem;
+height: 15rem;
+background-color: navy;
+ }
+
+ .a5{
+ width: 10rem;
+height: 15rem;
+background-color: goldenrod;
+}
+
+.a6{
+width: 10rem;
+ height: 15rem;
+ background-color: blueviolet;
+}
+
+.a7{
+ width: 10rem;
+height: 15rem;
+background-color: bisque;
+}
+
+.a8{
+width: 10rem;
+height: 20rem;
+background-color: lawngreen;
+}
+
+.a9{
+width: 10rem;
+height: 20rem;
+background-color: khaki;
+}   
+
+.a10{
+ width: 10rem;
+height: 19rem;
+background-color: teal;
+   }
+
+   .a11{
+    width: 10rem;
+    height: 20rem;
+    background-color: turquoise;
+    }
+    
+    .a12{
+      width: 10rem;
+     height: 20em;
+     background-color: hotpink;
+        }
+    
+      .a13{
+     width: 10rem;
+    height: 17rem;
+    background-color: maroon;
+     }
+    
+    .a14{
+     width: 10rem;
+    height: 15rem;
+    background-color: mediumspringgreen;
+     }
+    
+     .a15{
+     width: 10rem;
+    height: 15rem;
+    background-color: mediumorchid;
+    }
+    
+    .a16{
+    width: 10rem;
+     height: 19rem;
+     background-color: darkkhaki;
+    }
+    
+    .a17{
+     width: 10rem;
+    height: 18rem;
+    background-color: peru;
+    }
+    
+    .a18{
+    width: 10rem;
+    height: 20rem;
+    background-color: paleturquoise;
+    }
+    
+    .a19{
+    width: 25rem;
+    height: 25rem;
+    background-color: gold;
+    }
+
+.a20{
+ width: 10rem;
+ height: 17rem;
+ background-color: aquamarine;
+}
+
+
